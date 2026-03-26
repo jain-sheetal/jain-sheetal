@@ -8,9 +8,8 @@
  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+a+Developer+👋;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+%7C+Computer+Vision;Building+Projects+%26+Learning+Everyday+🚀" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+a+Developer+👋;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+%7C+Computer+Vision;Always+Learning+🚀" />
 </p>
-
 ---
 
 ---
