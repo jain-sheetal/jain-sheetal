@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=
-  AI+%26+Data+Science+Student;
-  Machine+Learning+Enthusiast;
+  font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+StudentMachine+Learning+Enthusiast;
   Python+Developer;
   Computer+Vision+Projects;
   Always+Learning+New+Things" />
@@ -77,14 +75,14 @@ Designed for accuracy, speed, and full offline usage.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhand-3110&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="" />
 </p>
 
 ---
 
 ## 🧩 LeetCode Progress  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/_chiku_3110?theme=dark&ext=heatmap" />
+  <img src=" />
 </p>
 
 ---
