@@ -50,7 +50,7 @@ The model is trained on labeled datasets and uses feature extraction techniques 
 Designed for accuracy, performance, and real-world applicability.
 
 📌 *Built With:* Python • TensorFlow • Keras • OpenCV • Streamlit  
-🔗 *Repo:* https://github.com/your-username/image-classification-cnn
+🔗 *Repo:* https://github.com/jain-sheetal/CNN-Project
 
 ---
 
