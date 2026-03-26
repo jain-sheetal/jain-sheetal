@@ -3,8 +3,6 @@
 
 ### 🎓 Artificial Intelligence & Data Science Student  
 🏫 Pranveer Singh Institute of Technology  
-🚀 Passionate about building intelligent systems using Machine Learning & Deep Learning  
-🖼️ Worked on Image Classification & Weapon Detection System  
 📈 Exploring Data Analysis, Visualization & Real-world ML Applications  
 💡 Python | Machine Learning | Data Science Enthusiast  
  
