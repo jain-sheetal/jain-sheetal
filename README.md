@@ -10,11 +10,7 @@
  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+StudentMachine+Learning+Enthusiast;
-  Python+Developer;
-  Computer+Vision+Projects;
-  Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+a+Developer+👋;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+%7C+Computer+Vision;Building+Projects+%26+Learning+Everyday+🚀" />
 </p>
 
 ---
@@ -47,12 +43,14 @@
 
 ## 🚀 Featured AI Project  
 
-### 💾 *AI Document Assistant (RAG-based)*  
-A local AI system that reads documents, creates embeddings, stores them in ChromaDB, retrieves top-k relevant chunks, and answers questions using semantic search.  
-Designed for accuracy, speed, and full offline usage.
+### 🖼️ *Image Classification using CNN*
 
-📌 *Built With:* Python • HuggingFace • ChromaDB • Streamlit  
-🔗 *Repo:* https://github.com/Akhand-3110/AI-Doc-Assistant  
+A deep learning-based image classification system built using Convolutional Neural Networks (CNNs) to automatically classify images into different categories with high accuracy.  
+The model is trained on labeled datasets and uses feature extraction techniques to identify patterns in images.
+Designed for accuracy, performance, and real-world applicability.
+
+📌 *Built With:* Python • TensorFlow • Keras • OpenCV • Streamlit  
+🔗 *Repo:* https://github.com/your-username/image-classification-cnn
 
 ---
 
