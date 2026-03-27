@@ -6,9 +6,10 @@
 📈 Exploring Data Analysis, Visualization & Real-world ML Applications  
 💡 Python | Machine Learning | Data Science Enthusiast  
  
+<p align="center">
 
 <img width="600" height="200" alt="SHEETAL JAIN" src="https://github.com/user-attachments/assets/25b92d83-cc01-48ef-8d7b-b7909655022e" />
-
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%26+Data+Analytics+Enthusiast;Building+Intelligent+Systems+%26+Projects" />
