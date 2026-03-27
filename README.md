@@ -7,7 +7,7 @@
 💡 Python | Machine Learning | Data Science Enthusiast  
  
 
-![banner](<img width="600" height="200" alt="SHEETAL JAIN" src="https://github.com/user-attachments/assets/3c4c9add-3c3e-4f3f-ae04-44af4df27b54" />)
+![banner](<"C:\Users\sheet\Downloads\SHEETAL JAIN.png"/>)
 
 
 <p align="center">
