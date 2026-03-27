@@ -55,27 +55,15 @@ Designed for accuracy, performance, and real-world applicability.
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="" />
-</p>
 
----
-
-## 🧩 LeetCode Progress  
-<p align="center">
-  <img src=" />
-</p>
-
----
 
 ## 📫 Connect With Me  
 
-- 📧 *Email:* jainsheetal.sj16@gmail.com
-- 🔗 *LinkedIn:* https://www.linkedin.com/in/sheetal-jain-1604sj/
+- 📧 Email: jainsheetal.sj16@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/sheetal-jain-1604sj/
 
 ---
 
 <p align="center">
-  <i>“Build AI that actually solves problems.”</i>
+  <i>“Exploring data, building intelligence, and creating impact.”</i>
 </p>
