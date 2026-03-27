@@ -10,9 +10,11 @@
 ![banner](<img width="600" height="200" alt="SHEETAL JAIN" src="https://github.com/user-attachments/assets/3c4c9add-3c3e-4f3f-ae04-44af4df27b54" />
 )
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+%26+ML+Learner;NLP+%26+DBMS+Beginner;325%2B+LeetCode+Problems+Solved" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%26+Data+Analytics+Enthusiast;Building+Intelligent+Systems+%26+Projects" />
+</p>>
 
 
 ---
