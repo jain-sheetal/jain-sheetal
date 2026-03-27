@@ -7,8 +7,7 @@
 💡 Python | Machine Learning | Data Science Enthusiast  
  
 
-![banner](<<img width="600" height="200" alt="SHEETAL JAIN" src="https://github.com/user-attachments/assets/25b92d83-cc01-48ef-8d7b-b7909655022e" />
-/>)
+(<<img width="600" height="200" alt="SHEETAL JAIN" src="https://github.com/user-attachments/assets/25b92d83-cc01-48ef-8d7b-b7909655022e" />)
 
 
 <p align="center">
