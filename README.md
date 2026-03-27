@@ -8,7 +8,7 @@
  
 <p align="center">
 
-<img width="800" height="200" alt="SHEETAL JAIN" src="https://github.com/user-attachments/assets/25b92d83-cc01-48ef-8d7b-b7909655022e" />
+<img width="900" height="300" alt="SHEETAL JAIN" src="https://github.com/user-attachments/assets/25b92d83-cc01-48ef-8d7b-b7909655022e" />
 </p>
 
 <p align="center">
