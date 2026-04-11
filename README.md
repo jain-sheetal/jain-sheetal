@@ -7,8 +7,8 @@
 💡 Python | Machine Learning | Data Science Enthusiast  
  
 <p align="center">
+<img width="750" height="230" alt="Morgan Maxwel (4)" src="https://github.com/user-attachments/assets/39b6ff53-6b98-4502-93d6-c582ed562c77" />
 
-<img width="900" height="200" alt="SHEETAL JAIN" src="https://github.com/user-attachments/assets/25b92d83-cc01-48ef-8d7b-b7909655022e" />
 </p>
 
 <p align="center">
