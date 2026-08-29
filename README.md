@@ -23,7 +23,7 @@
 - 📊 *Data Science* – Data analysis, visualization, feature engineering, and model building  
 - 🤖 *Machine Learning* – Supervised & unsupervised learning, model evaluation, optimization  
 - 🖼️ *Computer Vision* – Image classification, object detection, deep learning (CNNs)  
-- 🔫 *Projects* – Developed Image Classification models and a Weapon Detection System  
+- 🔫 *Projects* – Developed Image Classification models and MedPluse AI Portal
 - ⚙️ *Practical Implementation* – End-to-end ML pipelines, real-world problem solving  
 
 ---
@@ -53,6 +53,14 @@ Designed for accuracy, performance, and real-world applicability.
 📌 *Built With:* Python • TensorFlow • Keras • OpenCV • Streamlit  
 🔗 *Repo:* https://github.com/jain-sheetal/CNN-Project
 
+
+### 🖼️ *MedPluse AI Portal*
+MedPulse AI is an end-to-end medical web application designed to predict early-stage risk stratification for Diabetes and Cardiovascular diseases. 
+While many clinical machine learning tools operate as opaque "black boxes," MedPulse AI integrates Explainable AI (XAI) features to provide clear visual insights into the underlying clinical biomarkers driving each predictive score.
+
+📌 *Built With:  Python • Skictlearn • Plotly • Git  • Streamlit* 
+
+🔗 *Repo:  https://github.com/jain-sheetal/MedPulse-Portal*
 ---
 
 
